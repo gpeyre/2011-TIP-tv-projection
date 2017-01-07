@@ -1,0 +1,856 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.19)  7 JAN 2017 21:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**FadiliPeyreTVProj.tex
+(./FadiliPeyreTVProj.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2007/01/11 V1.7 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is an 11 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen117
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen118
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(./gpeyre.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen128
+\extrarowheight=\dimen129
+\NC@list=\toks21
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen130
+\TX@old@table=\dimen131
+\TX@old@col=\dimen132
+\TX@target=\dimen133
+\TX@delta=\dimen134
+\TX@cols=\count104
+\TX@ftn=\toks22
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+\c@thm=\count105
+\c@defn=\count106
+\c@cor=\count107
+\c@lem=\count108
+\c@prop=\count109
+\c@rem=\count110
+\c@exmp=\count111
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count112
+\float@exts=\toks23
+\float@box=\box29
+\@float@everytoks=\toks24
+\@floatcapt=\box30
+)
+\@float@every@listing=\toks25
+\c@listing=\count113
+\restsubwidth=\skip49
+\restsubheight=\skip50
+\restsubmoreheight=\skip51
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen135
+\epsfysize=\dimen136
+)
+(./algorithm2e.sty
+Package: algorithm2e 2005/10/04 v3.9 algorithms environments
+\c@AlgoLine=\count114
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+********************************************************
+Package `algorithm2e' Release 3.9 -- october 04 2005 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip52
+\skiprule=\skip53
+\skiphlne=\skip54
+\skiptext=\skip55
+\skiplength=\skip56
+\algomargin=\skip57
+\skipalgocfslide=\skip58
+\algowidth=\dimen137
+\inoutsize=\dimen138
+\inoutline=\dimen139
+\algocf@inoutbox=\box31
+\algocf@inputbox=\box32
+\AlCapSkip=\skip59
+\AlCapHSkip=\skip60
+\algocf@capbox=\box33
+\c@algocfline=\count115
+\c@algocf=\count116
+\algocf@algoframe=\box34
+\algocf@algobox=\box35
+) (./FadiliPeyreTVProj.aux)
+\openout1 = `FadiliPeyreTVProj.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen140
+\scratchbox=\box36
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen141
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks27
+)
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 54.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[][][]\OT1/ptm/m/n/9 Jalal M. Fadili is with GR-EYC CNRS-ENSICAEN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/ptm/m/n/9 Universit[]e de Caen, 14050 Caen Cedex, France., email:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[][][]\OT1/ptm/m/n/9 Gabriel Peyr[]e is with the CERE-MADE CNRS-Universit[]e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/ptm/m/n/9 Paris-Dauphine, 75775 Paris Cedex 16 France, email:
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 56.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+[]\OT1/ptm/b/it/10 Index Terms\OT1/ptm/b/n/10 ---Total vari-a-tion, pro-jec-tio
+n, du-al-ity,
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 71.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 72.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \vbox (badness 7704) has occurred while \output is active []
+
+
+Overfull \hbox (1.62706pt too wide) in paragraph at lines 172--172
+[] 
+ []
+
+[2]
+Overfull \hbox (158.48119pt too wide) in alignment at lines 225--225
+ [][][] []
+ []
+
+
+Overfull \hbox (10.06067pt too wide) detected at line 234
+\OMS/cmsy/m/n/10.95 ^^@h[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u\OT1/cmr/m/n
+/10.95 )\OML/cmm/m/it/10.95 ;  f[]\OMS/cmsy/m/n/10.95 i \OT1/cmr/m/n/10.95 + []
+\OMS/cmsy/m/n/10.95 j j\OML/cmm/m/it/10.95 f[] \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm
+/m/it/10.95 f[]\OMS/cmsy/m/n/10.95 j j[] \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.
+95 ^^@[]j j\OML/cmm/m/it/10.95 f[] \OT1/cmr/m/n/10.95 + [](\OML/cmm/m/it/10.95 
+u\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 j j[] \OT1/cmr/m/n/10.95 + []\OMS/cmsy
+/m/n/10.95 j j\OML/cmm/m/it/10.95 f[]\OMS/cmsy/m/n/10.95 j j[] []\OML/cmm/m/it/
+10.95 :
+ []
+
+[3]
+Overfull \hbox (241.22537pt too wide) in alignment at lines 288--288
+ [][][] []
+ []
+
+
+Overfull \hbox (27.9pt too wide) detected at line 344
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4]
+Overfull \hbox (170.54927pt too wide) in alignment at lines 371--371
+ [][][] []
+ []
+
+
+Overfull \hbox (90.42221pt too wide) in alignment at lines 376--376
+ [][][] []
+ []
+
+
+Overfull \hbox (98.08571pt too wide) in alignment at lines 382--382
+ [][][] []
+ []
+
+
+Overfull \hbox (147.06122pt too wide) in alignment at lines 388--388
+ [][][] []
+ []
+
+
+Overfull \hbox (146.9915pt too wide) in alignment at lines 401--401
+ [][][] []
+ []
+
+[5]
+Overfull \hbox (27.9pt too wide) detected at line 463
+[][]
+ []
+
+[6]
+Overfull \hbox (24.65477pt too wide) in alignment at lines 554--554
+ [][][] []
+ []
+
+
+Overfull \hbox (27.9pt too wide) detected at line 579
+[][]
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 585--586
+\OT1/ptm/m/n/11 is summable. If Al-go-rithm 1[] or 2[] are ran $\OML/cmm/m/it/1
+0.95 N[] \U/msa/m/n/11 >
+ []
+
+[7]
+Package epstopdf Info: Source file: <./images/denoising/lena-noisy.eps>
+(epstopdf)                    date: 2009-02-04 16:03:51
+(epstopdf)                    size: 138646 bytes
+(epstopdf)             Output file: <./images/denoising/lena-noisy-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:08:59
+(epstopdf)                    size: 59581 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/denoising/lena-no
+isy-eps-converted-to.pdf ./images/denoising/lena-noisy.eps>
+(epstopdf)             \includegraphics on input line 628.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/denoising/lena-noisy-eps-converted-to.pdf, id=48, 256.96pt x 256.96pt
+>
+File: ./images/denoising/lena-noisy-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./images/denoising/lena-noisy-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/denoising/lena-noisy-eps-converted-to.pdf use
+d on input line 628.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+Package epstopdf Info: Source file: <./images/denoising/lena-2.eps>
+(epstopdf)                    date: 2009-02-04 16:03:50
+(epstopdf)                    size: 138642 bytes
+(epstopdf)             Output file: <./images/denoising/lena-2-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-01-07 21:08:59
+(epstopdf)                    size: 20591 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/denoising/lena-2-
+eps-converted-to.pdf ./images/denoising/lena-2.eps>
+(epstopdf)             \includegraphics on input line 628.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/denoising/lena-2-eps-converted-to.pdf, id=49, 256.96pt x 256.96pt>
+File: ./images/denoising/lena-2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./images/denoising/lena-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/denoising/lena-2-eps-converted-to.pdf used on
+ input line 628.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+Package epstopdf Info: Source file: <./images/denoising/lena-4.eps>
+(epstopdf)                    date: 2009-02-04 16:03:50
+(epstopdf)                    size: 138642 bytes
+(epstopdf)             Output file: <./images/denoising/lena-4-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-01-07 21:09:00
+(epstopdf)                    size: 26094 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/denoising/lena-4-
+eps-converted-to.pdf ./images/denoising/lena-4.eps>
+(epstopdf)             \includegraphics on input line 628.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/denoising/lena-4-eps-converted-to.pdf, id=50, 256.96pt x 256.96pt>
+File: ./images/denoising/lena-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./images/denoising/lena-4-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/denoising/lena-4-eps-converted-to.pdf used on
+ input line 628.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+Package epstopdf Info: Source file: <./images/denoising/lena-8.eps>
+(epstopdf)                    date: 2009-02-04 16:03:50
+(epstopdf)                    size: 138642 bytes
+(epstopdf)             Output file: <./images/denoising/lena-8-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-01-07 21:09:00
+(epstopdf)                    size: 18989 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/denoising/lena-8-
+eps-converted-to.pdf ./images/denoising/lena-8.eps>
+(epstopdf)             \includegraphics on input line 628.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/denoising/lena-8-eps-converted-to.pdf, id=51, 256.96pt x 256.96pt>
+File: ./images/denoising/lena-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./images/denoising/lena-8-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/denoising/lena-8-eps-converted-to.pdf used on
+ input line 628.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+Package epstopdf Info: Source file: <./images/errors/lena-l2-error.eps>
+(epstopdf)                    date: 2009-02-01 13:34:06
+(epstopdf)                    size: 19724 bytes
+(epstopdf)             Output file: <./images/errors/lena-l2-error-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:09:00
+(epstopdf)                    size: 19941 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/errors/lena-l2-er
+ror-eps-converted-to.pdf ./images/errors/lena-l2-error.eps>
+(epstopdf)             \includegraphics on input line 636.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/errors/lena-l2-error-eps-converted-to.pdf, id=52, 498.86375pt x 383.4
+325pt>
+File: ./images/errors/lena-l2-error-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./images/errors/lena-l2-error-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/errors/lena-l2-error-eps-converted-to.pdf use
+d on input line 636.
+(pdftex.def)             Requested size: 201.60077pt x 154.94997pt.
+Package epstopdf Info: Source file: <./images/errors/lena-tv-error.eps>
+(epstopdf)                    date: 2009-02-04 16:03:55
+(epstopdf)                    size: 34760 bytes
+(epstopdf)             Output file: <./images/errors/lena-tv-error-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:09:01
+(epstopdf)                    size: 20429 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/errors/lena-tv-er
+ror-eps-converted-to.pdf ./images/errors/lena-tv-error.eps>
+(epstopdf)             \includegraphics on input line 643.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/errors/lena-tv-error-eps-converted-to.pdf, id=53, 499.8675pt x 384.43
+625pt>
+File: ./images/errors/lena-tv-error-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./images/errors/lena-tv-error-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/errors/lena-tv-error-eps-converted-to.pdf use
+d on input line 643.
+(pdftex.def)             Requested size: 201.60077pt x 155.0447pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./images/denoising/lena-noisy-eps-converted-to.pdf> <./images/denoising/le
+na-2-eps-converted-to.pdf> <./images/denoising/lena-4-eps-converted-to.pdf> <./
+images/denoising/lena-8-eps-converted-to.pdf> <./images/errors/lena-l2-error-ep
+s-converted-to.pdf>]
+Overfull \hbox (27.9pt too wide) detected at line 699
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/synthesis/tv-synthesis-std-4.png, id=77, 256.96pt x 256.96pt>
+File: ./images/synthesis/tv-synthesis-std-4.png Graphic file (type png)
+
+<use ./images/synthesis/tv-synthesis-std-4.png>
+Package pdftex.def Info: ./images/synthesis/tv-synthesis-std-4.png used on inpu
+t line 724.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+
+<./images/synthesis/tv-synthesis-std-8.png, id=78, 256.96pt x 256.96pt>
+File: ./images/synthesis/tv-synthesis-std-8.png Graphic file (type png)
+
+<use ./images/synthesis/tv-synthesis-std-8.png>
+Package pdftex.def Info: ./images/synthesis/tv-synthesis-std-8.png used on inpu
+t line 724.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+
+<./images/synthesis/tv-synthesis-std-16.png, id=79, 256.96pt x 256.96pt>
+File: ./images/synthesis/tv-synthesis-std-16.png Graphic file (type png)
+
+<use ./images/synthesis/tv-synthesis-std-16.png>
+Package pdftex.def Info: ./images/synthesis/tv-synthesis-std-16.png used on inp
+ut line 724.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+
+<./images/synthesis/tv-synthesis-std-32.png, id=80, 256.96pt x 256.96pt>
+File: ./images/synthesis/tv-synthesis-std-32.png Graphic file (type png)
+
+<use ./images/synthesis/tv-synthesis-std-32.png>
+Package pdftex.def Info: ./images/synthesis/tv-synthesis-std-32.png used on inp
+ut line 724.
+(pdftex.def)             Requested size: 120.95892pt x 120.95941pt.
+ [9 <./images/errors/lena-tv-error-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./images/inpainting/cameraman-inpainting-o
+riginal.eps>
+(epstopdf)                    date: 2009-02-04 16:04:03
+(epstopdf)                    size: 537342 bytes
+(epstopdf)             Output file: <./images/inpainting/cameraman-inpainting-o
+riginal-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:36
+(epstopdf)                    size: 46065 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/inpainting/camera
+man-inpainting-original-eps-converted-to.pdf ./images/inpainting/cameraman-inpa
+inting-original.eps>
+(epstopdf)             \includegraphics on input line 779.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/inpainting/cameraman-inpainting-original-eps-converted-to.pdf, id=86,
+ 513.92pt x 513.92pt>
+File: ./images/inpainting/cameraman-inpainting-original-eps-converted-to.pdf Gr
+aphic file (type pdf)
+
+<use ./images/inpainting/cameraman-inpainting-original-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/inpainting/cameraman-inpainting-original-eps-
+converted-to.pdf used on input line 779.
+(pdftex.def)             Requested size: 165.12378pt x 165.1243pt.
+Package epstopdf Info: Source file: <./images/inpainting/cameraman-inpainting-o
+bservation.eps>
+(epstopdf)                    date: 2009-02-04 16:04:03
+(epstopdf)                    size: 537345 bytes
+(epstopdf)             Output file: <./images/inpainting/cameraman-inpainting-o
+bservation-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:36
+(epstopdf)                    size: 227505 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/inpainting/camera
+man-inpainting-observation-eps-converted-to.pdf ./images/inpainting/cameraman-i
+npainting-observation.eps>
+(epstopdf)             \includegraphics on input line 779.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/inpainting/cameraman-inpainting-observation-eps-converted-to.pdf, id=
+87, 513.92pt x 513.92pt>
+File: ./images/inpainting/cameraman-inpainting-observation-eps-converted-to.pdf
+ Graphic file (type pdf)
+
+<use ./images/inpainting/cameraman-inpainting-observation-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/inpainting/cameraman-inpainting-observation-e
+ps-converted-to.pdf used on input line 779.
+(pdftex.def)             Requested size: 165.12378pt x 165.1243pt.
+Package epstopdf Info: Source file: <./images/inpainting/cameraman-inpainting-s
+olution.eps>
+(epstopdf)                    date: 2009-02-04 16:04:03
+(epstopdf)                    size: 537342 bytes
+(epstopdf)             Output file: <./images/inpainting/cameraman-inpainting-s
+olution-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:36
+(epstopdf)                    size: 104398 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/inpainting/camera
+man-inpainting-solution-eps-converted-to.pdf ./images/inpainting/cameraman-inpa
+inting-solution.eps>
+(epstopdf)             \includegraphics on input line 779.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/inpainting/cameraman-inpainting-solution-eps-converted-to.pdf, id=88,
+ 513.92pt x 513.92pt>
+File: ./images/inpainting/cameraman-inpainting-solution-eps-converted-to.pdf Gr
+aphic file (type pdf)
+
+<use ./images/inpainting/cameraman-inpainting-solution-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/inpainting/cameraman-inpainting-solution-eps-
+converted-to.pdf used on input line 779.
+(pdftex.def)             Requested size: 165.12378pt x 165.1243pt.
+Package epstopdf Info: Source file: <./images/deblurring/boat-deblurring-origin
+al.eps>
+(epstopdf)                    date: 2009-02-04 16:03:42
+(epstopdf)                    size: 537337 bytes
+(epstopdf)             Output file: <./images/deblurring/boat-deblurring-origin
+al-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:37
+(epstopdf)                    size: 78625 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/deblurring/boat-d
+eblurring-original-eps-converted-to.pdf ./images/deblurring/boat-deblurring-ori
+ginal.eps>
+(epstopdf)             \includegraphics on input line 779.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/deblurring/boat-deblurring-original-eps-converted-to.pdf, id=89, 513.
+92pt x 513.92pt>
+File: ./images/deblurring/boat-deblurring-original-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use ./images/deblurring/boat-deblurring-original-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/deblurring/boat-deblurring-original-eps-conve
+rted-to.pdf used on input line 779.
+(pdftex.def)             Requested size: 165.12378pt x 165.1243pt.
+Package epstopdf Info: Source file: <./images/deblurring/boat-deblurring-observ
+ation.eps>
+(epstopdf)                    date: 2009-02-04 16:03:42
+(epstopdf)                    size: 537340 bytes
+(epstopdf)             Output file: <./images/deblurring/boat-deblurring-observ
+ation-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:37
+(epstopdf)                    size: 84264 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/deblurring/boat-d
+eblurring-observation-eps-converted-to.pdf ./images/deblurring/boat-deblurring-
+observation.eps>
+(epstopdf)             \includegraphics on input line 779.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/deblurring/boat-deblurring-observation-eps-converted-to.pdf, id=90, 5
+13.92pt x 513.92pt>
+File: ./images/deblurring/boat-deblurring-observation-eps-converted-to.pdf Grap
+hic file (type pdf)
+
+<use ./images/deblurring/boat-deblurring-observation-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/deblurring/boat-deblurring-observation-eps-co
+nverted-to.pdf used on input line 779.
+(pdftex.def)             Requested size: 165.12378pt x 165.1243pt.
+Package epstopdf Info: Source file: <./images/deblurring/boat-deblurring-soluti
+on.eps>
+(epstopdf)                    date: 2009-02-04 16:03:42
+(epstopdf)                    size: 537337 bytes
+(epstopdf)             Output file: <./images/deblurring/boat-deblurring-soluti
+on-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:38
+(epstopdf)                    size: 51907 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/deblurring/boat-d
+eblurring-solution-eps-converted-to.pdf ./images/deblurring/boat-deblurring-sol
+ution.eps>
+(epstopdf)             \includegraphics on input line 779.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/deblurring/boat-deblurring-solution-eps-converted-to.pdf, id=91, 513.
+92pt x 513.92pt>
+File: ./images/deblurring/boat-deblurring-solution-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use ./images/deblurring/boat-deblurring-solution-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/deblurring/boat-deblurring-solution-eps-conve
+rted-to.pdf used on input line 779.
+(pdftex.def)             Requested size: 165.12378pt x 165.1243pt.
+Package epstopdf Info: Source file: <./images/inpainting/cameraman-inpainting-e
+rror.eps>
+(epstopdf)                    date: 2008-12-28 23:57:15
+(epstopdf)                    size: 8878 bytes
+(epstopdf)             Output file: <./images/inpainting/cameraman-inpainting-e
+rror-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:38
+(epstopdf)                    size: 6018 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/inpainting/camera
+man-inpainting-error-eps-converted-to.pdf ./images/inpainting/cameraman-inpaint
+ing-error.eps>
+(epstopdf)             \includegraphics on input line 788.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/inpainting/cameraman-inpainting-error-eps-converted-to.pdf, id=92, 49
+4.84875pt x 373.395pt>
+File: ./images/inpainting/cameraman-inpainting-error-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use ./images/inpainting/cameraman-inpainting-error-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/inpainting/cameraman-inpainting-error-eps-con
+verted-to.pdf used on input line 788.
+(pdftex.def)             Requested size: 201.60077pt x 152.11865pt.
+Package epstopdf Info: Source file: <./images/deblurring/boat-deblurring-error.
+eps>
+(epstopdf)                    date: 2009-04-30 12:16:24
+(epstopdf)                    size: 8714 bytes
+(epstopdf)             Output file: <./images/deblurring/boat-deblurring-error-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-07 21:10:38
+(epstopdf)                    size: 5975 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/deblurring/boat-d
+eblurring-error-eps-converted-to.pdf ./images/deblurring/boat-deblurring-error.
+eps>
+(epstopdf)             \includegraphics on input line 788.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/deblurring/boat-deblurring-error-eps-converted-to.pdf, id=93, 494.848
+75pt x 373.395pt>
+File: ./images/deblurring/boat-deblurring-error-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use ./images/deblurring/boat-deblurring-error-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/deblurring/boat-deblurring-error-eps-converte
+d-to.pdf used on input line 788.
+(pdftex.def)             Requested size: 201.60077pt x 152.11865pt.
+ [10 <./images/synthesis/tv-synthesis-std-4.png (PNG copy)> <./images/synthesis
+/tv-synthesis-std-8.png (PNG copy)> <./images/synthesis/tv-synthesis-std-16.png
+ (PNG copy)> <./images/synthesis/tv-synthesis-std-32.png (PNG copy)>]
+(./FadiliPeyreTVProj.bbl [11 <./images/inpainting/cameraman-inpainting-original
+-eps-converted-to.pdf> <./images/inpainting/cameraman-inpainting-observation-ep
+s-converted-to.pdf> <./images/inpainting/cameraman-inpainting-solution-eps-conv
+erted-to.pdf> <./images/deblurring/boat-deblurring-original-eps-converted-to.pd
+f> <./images/deblurring/boat-deblurring-observation-eps-converted-to.pdf> <./im
+ages/deblurring/boat-deblurring-solution-eps-converted-to.pdf>] [12 <./images/i
+npainting/cameraman-inpainting-error-eps-converted-to.pdf> <./images/deblurring
+/boat-deblurring-error-eps-converted-to.pdf>]) [13
+
+] (./FadiliPeyreTVProj.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4837 strings out of 493014
+ 69344 string characters out of 6133351
+ 165526 words of memory out of 5000000
+ 8260 multiletter control sequences out of 15000+600000
+ 40732 words of font info for 86 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,29n,28p,1318b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/symbols/msam7.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/u
+rw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/
+utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on FadiliPeyreTVProj.pdf (13 pages, 1167257 bytes).
+PDF statistics:
+ 217 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
